@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, mình là InuiluDD
+# 👋 Hi, Im Lê Thế Danh (InuiluDD)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
@@ -8,25 +8,32 @@
 
 ---
 
-## 🚀 Giới thiệu
+## 🚀 About Me
 
-- AI Engineer
-- Computer Vision
+I am aiming to become an AI Engineer specializing in Artificial Intelligence and related technologies.
+
+Currently, I am continuously learning and exploring:
+- Artificial Intelligence (AI)
+- Machine Learning
 - Deep Learning
-- Flutter Developer
+- Computer Vision
+- Related modern technologies
 
 ---
 
-## 🛠 Tech Stack
+## 📫 Contact
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter,firebase,docker,git,vscode" />
-</p>
+- Email: lethedanhdanh@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InuiluDD&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,docker" />
 </p>
+
+- Machine Learning
+- Deep Learning
+- Transformer Models
+- Computer Vision
