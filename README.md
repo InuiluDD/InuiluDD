@@ -27,13 +27,13 @@ Currently, I am continuously learning and exploring:
 
 ---
 
-## 🛠 Skills & Technologies
+## ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,docker" />
-</p>
-
-- Machine Learning
-- Deep Learning
-- Transformer Models
-- Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-F97316?style=for-the-badge)
+![Transformer](https://img.shields.io/badge/Transformer-374151?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-A855F7?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
