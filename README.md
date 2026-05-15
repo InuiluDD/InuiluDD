@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**InuiluDD/InuiluDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Xin chào, mình là InuiluDD
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 Giới thiệu
+
+- AI Engineer
+- Computer Vision
+- Deep Learning
+- Flutter Developer
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flutter,firebase,docker,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InuiluDD&show_icons=true&theme=tokyonight" />
+</p>
